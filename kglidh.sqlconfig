@@ -1,0 +1,5 @@
+-- This is going to execute a single script for me
+-- Maybe this will have templatized parameters for use in ServiceNow
+-- 03/28/2019
+mprod | script_against_mprod.sql
+gprod | script_against_gprod.sql
