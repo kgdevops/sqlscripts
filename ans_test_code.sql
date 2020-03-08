@@ -1,5 +1,3 @@
-set echo on
-spool ans_test_code.log
 DECLARE
   cursor c1 is
     select max(ANS_DATA) from kglidh.ansible_test;
