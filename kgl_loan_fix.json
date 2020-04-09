@@ -1,7 +1,7 @@
 {
   "sqldeploy": {
        "developer": "Kevin Lidh",
-       "date": "04/08/2020"
+       "date": "04/08/2020",
        "email": "kevin.lidh@efirstbank.com",
        "description": "Test changes to multiple databases",
        "scripts": {
