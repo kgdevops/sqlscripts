@@ -6,7 +6,7 @@ BEGIN
   open c1;
   fetch c1 into max_data;
   max_data := max_data+1;
-  insert into kglidh.loan_test values (sysdate,loan_data,'Another loan change');
+  insert into kglidh.loan_test values (sysdate,max_data,'Another loan change');
   close c1;
 END;
 /
