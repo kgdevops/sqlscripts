@@ -1,0 +1,39 @@
+{
+  "sqldeploy": {
+    "developer": "Kevin Lidh",
+    "date": "04/01/2021",
+    "description": "Demo SQL Scripts Execution"
+    "scripts": {
+       "mprod1": {
+           "sequence": 1,
+           "database": "mprod1",
+           "script": "cr_billy_table1.sql",
+           "execute": "y"
+        }
+       "mprod2": {
+           "sequence": 2,
+           "database": "mprod2",
+           "script": "cr_billy_table2.sql",
+           "execute": "y"
+        }
+       "mprod3": {
+           "sequence": 3,
+           "database": "mprod1",
+           "script": "ins_billy_table1.sql",
+           "execute": "y"
+        }
+       "mprod4": {
+           "sequence": 1,
+           "database": "mprod2",
+           "script": "ins_billy_table2.sql",
+           "execute": "y"
+        }
+       "mprod1": {
+           "sequence": 1,
+           "database": "mprod1",
+           "script": "sel_billy_tables.sql",
+           "execute": "y"
+        }
+     }
+   }
+}
