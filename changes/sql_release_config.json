@@ -12,7 +12,7 @@
         },
        "mprod2": {
            "sequence": 2,
-           "database": "mprod2",
+           "database": "mprod1",
            "script": "cr_billy_table2.sql",
            "execute": "y"
         },
@@ -24,7 +24,7 @@
         },
        "mprod4": {
            "sequence": 4,
-           "database": "mprod2",
+           "database": "mprod1",
            "script": "ins_billy_table2.sql",
            "execute": "y"
         },
