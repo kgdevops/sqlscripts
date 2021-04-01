@@ -1,0 +1,28 @@
+-- Create orders records
+insert into billy.orders values (1, 'bolts',10, 1, sysdate-20, 'N');
+insert into billy.orders values (2, 'nails',10, 2, sysdate-19, 'N');
+insert into billy.orders values (3, 'fasteners',10, 3, sysdate-19, 'Y');
+insert into billy.orders values (4, 'glue sticks',10, 2, sysdate-19, 'N');
+insert into billy.orders values (5, 'brackets',10, 3, sysdate-18, 'N');
+insert into billy.orders values (6, 'drills',1, 4, sysdate-18, 'Y');
+insert into billy.orders values (7, 'batteries',10, 5, sysdate-17, 'N');
+insert into billy.orders values (8, 'rolls of tape',10, 4, sysdate-16, 'N');
+insert into billy.orders values (9, 'sandpaper squares',10, 5, sysdate-16, 'Y');
+insert into billy.orders values (10, 'sandpaper squares',10, 6, sysdate-15, 'N');
+insert into billy.orders values (11, 'rolls of tape',10, 7, sysdate-15, 'N');
+insert into billy.orders values (12, 'batteries',10, 5, sysdate-15, 'Y');
+insert into billy.orders values (13, 'drills',1, 6, sysdate-14, 'N');
+insert into billy.orders values (14, 'brackets',10, 7, sysdate-14, 'N');
+insert into billy.orders values (15, 'glue sticks',10, 8, sysdate-13, 'Y');
+insert into billy.orders values (16, 'fasteners',10, 1, sysdate-12, 'N');
+insert into billy.orders values (17, 'nails',10, 3, sysdate-12, 'N');
+insert into billy.orders values (18, 'bolts',10, 4, sysdate-11, 'Y');
+insert into billy.orders values (19, 'bolts',10, 6, sysdate-11, 'N');
+insert into billy.orders values (20, 'nails',10, 9, sysdate-11, 'N');
+insert into billy.orders values (21, 'fasteners',10, 8, sysdate-10, 'Y');
+insert into billy.orders values (22, 'glue sticks',10, 2, sysdate-10, 'N');
+insert into billy.orders values (23, 'brackets',10, 3, sysdate-9, 'N');
+insert into billy.orders values (24, 'drills',1, 4, sysdate-8, 'Y');
+insert into billy.orders values (25, 'batteries',10, 7, sysdate-8, 'N');
+insert into billy.orders values (26, 'rolls of tape',10, 5, sysdate-7, 'N');
+insert into billy.orders values (27, 'sandpaper squares',10, 2, sysdate-7, 'Y');
