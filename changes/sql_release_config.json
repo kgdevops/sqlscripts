@@ -2,7 +2,7 @@
   "sqldeploy": {
     "developer": "Kevin Lidh",
     "date": "04/01/2021",
-    "description": "Demo SQL Scripts Execution"
+    "description": "Demo SQL Scripts Execution",
     "scripts": {
        "mprod1": {
            "sequence": 1,
